@@ -2,6 +2,10 @@
 
 This repository is contains Hands on guide to learning PyTorch and developing Machine learning models using it. This repo describes Capsule Networks and its fundamental aspects along with implementation in PyTorch.
 
+In case if the notebook is not loading, please click on the link below:
+<br/>
+[capsule networks.ipynb](https://nbviewer.jupyter.org/github/PyExtreme/Hacking-the-Capsule-Network/blob/master/capsule%20networks.ipynb)
+
 ## Introduction - Capsule Networks
 
 A capsule network takes input an image and finds out what kind of object is present and what are the instatiation parameters(rotation, thickness, etc).
