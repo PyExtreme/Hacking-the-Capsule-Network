@@ -10,7 +10,7 @@ In case if the notebook is not loading, please click on the link below:
 
 A capsule network takes input an image and finds out what kind of object is present and what are the instatiation parameters(rotation, thickness, etc).
 
-* Why capsule networks 
+* **Why capsule networks?** 
 
 Pooling allows a degree of translational invariance (it can recognize the same object in a somewhat different location) and allows a larger number of feature types to be represented. The main disadvantage of Pooling is that pooling can't explore the spatial relationship and provides invariance instead of equivariance i.e translation of input features results in an equivalent translation of outputs. In brief, CNN contains pooling layer which can't capture spatial relationship like poses of an entity. But capsule is designed in such a way that it can easily capture these features.
 
