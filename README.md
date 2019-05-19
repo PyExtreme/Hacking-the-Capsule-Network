@@ -40,3 +40,4 @@ This is the pivotal part of capsule network. Initially when the feature maps hav
 ## Dataset
 
 The dataset used is Fashion MNIST dataset containing 60000 images of all 10 different classes.
+The link to dataset is [here](https://www.kaggle.com/zalando-research/fashionmnist)
