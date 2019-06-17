@@ -1,6 +1,6 @@
 # Hacking-the-Capsule-Network
 
-This repository is contains Hands on guide to learning PyTorch and developing Machine learning models using it. This repo describes Capsule Networks and its fundamental aspects along with implementation in PyTorch.
+This repository contains Hands on guide to learning PyTorch and developing Machine learning models using it. This repo describes Capsule Networks and its fundamental aspects along with implementation in PyTorch.
 
 In case if the notebook is not loading, please click on the link below:
 <br/>
